@@ -1,0 +1,5 @@
+[E 170706 15:17:22 ppTenLogService:156] /Users/willschang/tenCom/Comb/ppTenMemService.py:281	Traceback (most recent call last):
+  File "/Users/willschang/tenCom/Comb/ppTenMemService.py", line 269, in set_record
+    values = json.loads(data_list[1])
+IndexError: list index out of range
+
